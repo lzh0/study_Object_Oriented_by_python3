@@ -4,9 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d9fe8270-bc30-481c-ab4e-8e178f41b26b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>object_riented_programming_exercise_lab_.py</StartupFile>
-    <SearchPath>
-    </SearchPath>
+    <StartupFile>python类模板兼笔记.py</StartupFile>
+    <SearchPath>..\..\面向对象编程 python3</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>object riented programming(exercise_lab)</Name>
@@ -22,6 +21,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="object_riented_programming_exercise_lab_.py" />
+    <Compile Include="python类模板兼笔记.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
